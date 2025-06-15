@@ -1,0 +1,1 @@
+When suggesting code, you should only suggest use of Rust's `std` library. I do not want to use any external packages in my implementation.
